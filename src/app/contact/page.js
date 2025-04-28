@@ -1,13 +1,10 @@
 export default function ContactPage() {
-    return (
-      <main className="flex flex-col items-center justify-center p-10 bg-gray-50 min-h-screen">
-        <h1 className="text-4xl font-bold mb-6 text-center">Contact</h1>
-        <p className="max-w-3xl text-center text-gray-700">
-          Interested in partnering, piloting, or learning more about SensorFlow?
-          <br />
-          Please email: <a href="mailto:your-email@example.com" className="text-blue-600 underline">your-email@example.com</a>
-        </p>
-      </main>
-    );
-  }
-  
+  return (
+    <main className="flex flex-col items-center justify-center p-10 min-h-screen bg-white">
+      <h1 className="text-4xl font-bold mb-6 text-center">Contact Us</h1>
+      <p className="max-w-2xl text-center text-gray-700">
+        Got questions? Reach out to us at <a href="mailto:info@sensorflow.com" className="text-blue-600 underline">info@sensorflow.com</a> or use the contact form (coming soon)!
+      </p>
+    </main>
+  );
+}
