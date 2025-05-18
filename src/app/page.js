@@ -46,8 +46,7 @@ export default function HomePage() {
               transmitting data securely via Bluetooth Low Energy (BLE) to a local gateway.
             </p>
             <p>
-            This provides cities, universities, and shopping centres with affordable,
-            scalable, and privacy&apos;-first traffic and parking monitoring.
+            Our solution supports cities, universities, and shopping centres with affordable, scalable, and secure traffic and parking monitoring.
             </p>
           </div>
 
