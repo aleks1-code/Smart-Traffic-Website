@@ -9,12 +9,6 @@ export default function TechnologyPage() {
         Data is transmitted wirelessly via <strong>Bluetooth Low Energy (BLE)</strong>, allowing for real-time updates without expensive infrastructure.
       </p>
 
-      <img
-        src="/sensor-prototype.png"
-        alt="Low-cost smart parking sensor prototype"
-        className="my-8 w-full max-w-md rounded-xl shadow-lg"
-      />
-
       <h2 className="text-2xl font-semibold mt-10 mb-4 text-center">How It Works</h2>
 
       <p className="max-w-3xl text-center text-gray-700">
@@ -24,11 +18,6 @@ export default function TechnologyPage() {
         ensures low power usage, easy deployment, and privacy-preserving monitoring.
       </p>
 
-      <img
-        src="/system-architecture.png"
-        alt="SensorFlow cloud architecture overview"
-        className="my-8 w-full max-w-2xl rounded-xl shadow-lg"
-      />
     </main>
   );
 }
