@@ -4,7 +4,7 @@ export default function TechnologyPage() {
       <h1 className="text-4xl font-bold mb-6 text-center">Technology</h1>
       
       <p className="max-w-3xl text-center text-gray-700">
-        SensorFlow’s technology is centered around a custom-built, low-cost smart parking sensor.
+        SensorFlow&apos;s technology is centered around a custom-built, low-cost smart parking sensor.
         Our prototype uses an <strong>ESP32 microcontroller</strong> paired with an <strong>HC-SR04 ultrasonic distance sensor</strong> and an <strong>infrared (IR) sensor</strong> to detect vehicle presence.
         Data is transmitted wirelessly via <strong>Bluetooth Low Energy (BLE)</strong>, allowing for real-time updates without expensive infrastructure.
       </p>
@@ -17,7 +17,6 @@ export default function TechnologyPage() {
         predictive analytics, and user-friendly insights via desktop or mobile applications. Our sensor-first approach
         ensures low power usage, easy deployment, and privacy-preserving monitoring.
       </p>
-
     </main>
   );
 }
