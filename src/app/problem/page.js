@@ -13,7 +13,7 @@ export default function ProblemPage() {
         </p>
 
         <p>
-          These incidents aren't just physical. <a href="https://australianrotaryhealth.org.au/research/the-psychological-impact-of-road-traffic-injuries/" className="text-blue-600 underline" target="_blank">Psychological studies</a> show that up to <strong>42% of people</strong> involved in road crashes suffer ongoing mental distress—ranging from anxiety to post-traumatic stress disorder.
+          These incidents aren&apos;t just physical. <a href="https://australianrotaryhealth.org.au/research/the-psychological-impact-of-road-traffic-injuries/" className="text-blue-600 underline" target="_blank">Psychological studies</a> show that up to <strong>42% of people</strong> involved in road crashes suffer ongoing mental distress—ranging from anxiety to post-traumatic stress disorder.
         </p>
 
         <p>
