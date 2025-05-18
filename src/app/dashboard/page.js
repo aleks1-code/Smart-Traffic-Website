@@ -27,7 +27,7 @@ export default function DashboardPage() {
       <div className="bg-white p-6 rounded-lg shadow-md w-80 text-center mt-10">
         <h2 className="text-2xl font-semibold mb-4">Parking Occupancy</h2>
         <p className="text-3xl font-bold text-blue-600">{occupiedSpaces}/{totalSpaces}</p>
-        <p className="text-gray-600 mt-2">spaces occupied</p>
+        <p className="text-gray-600 mt-2">Spaces Occupied</p>
       </div>
     </main>
   );
