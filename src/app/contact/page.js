@@ -16,8 +16,8 @@ export default function ContactPage() {
       </ul>
 
       <p className="text-center mt-6 text-gray-500">
-        Our contact form is currently under development — stay tuned!
-      </p>
+  Our contact form is currently under development &mdash; stay tuned!
+    </p>
     </main>
   );
 }
